@@ -1,11 +1,11 @@
 # AirQualityIndex_prediction
 
-# Data Source: https://en.tutiempo.net/
+Data Source: https://en.tutiempo.net/
 
--CombineData.CSV contains the data from 2013 to 2018 Scraped from tutiempo website below are the details of each colums
+- CombineData.CSV contains the data from 2013 to 2018 Scraped from tutiempo website below are the details of each colums
 
--T : Average Temperature(Degree C)
--TM : Maximum Temperature(Degree C)
+- T : Average Temperature(Degree C)
+- TM : Maximum Temperature(Degree C)
 -Tm : Mimimum Temperature(Degree C)
 -SLP : Atmospheric Pressure At Sea Level(hpa)
 -H : Average Relative Humidity(%)
